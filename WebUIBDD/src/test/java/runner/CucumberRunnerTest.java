@@ -10,7 +10,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @CucumberOptions(plugin = { "pretty", "html:target/cucumber/report.html", "summary",
 		"me.jvt.cucumber.report.PrettyReports:target/report/cucumber-html-reports" }, features = {
 				"src/test/resources" }, glue = {
-						"com.serosoft.stepdef" }, snippets = CAMELCASE, dryRun = false, monochrome = true, tags = "@regression"
+						"com.stepdef" }, snippets = CAMELCASE, dryRun = false, monochrome = true, tags = "@regression"
 )
 public class CucumberRunnerTest {
 	

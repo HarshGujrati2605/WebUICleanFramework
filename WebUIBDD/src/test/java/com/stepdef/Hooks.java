@@ -39,7 +39,7 @@ public class Hooks extends GlobalVariable {
 	@AfterAll
 	public static void sendEmails() {
 		try {
-     		driver.quit();	
+     		//driver.quit();	
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

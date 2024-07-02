@@ -1,1 +1,22 @@
-2024-07-01 15:07:627 INFO  CommonActions:156 - Waiting for element to be visible
+2024-07-02 10:07:428 INFO  CommonActions:156 - Waiting for element to be visible
+2024-07-02 10:07:527 INFO  CommonActions:156 - Highlighted the Admin Tab
+2024-07-02 10:07:617 INFO  CommonActions:156 - i Click on the element Admin Tab
+2024-07-02 10:07:617 INFO  CommonActions:156 - Waiting for element to be visible
+2024-07-02 10:07:889 INFO  CommonActions:156 - Highlighted the Username field
+2024-07-02 10:07:66 INFO  CommonActions:156 - i Click on the element Username field
+2024-07-02 10:07:85 INFO  CommonActions:156 - Highlighted the Username field
+2024-07-02 10:07:232 INFO  CommonActions:156 - Clicked onUsername field
+2024-07-02 10:07:234 INFO  CommonActions:156 - Waiting for element to be visible
+2024-07-02 10:07:330 INFO  CommonActions:156 - Highlighted the Password field
+2024-07-02 10:07:412 INFO  CommonActions:156 - i Click on the element Password field
+2024-07-02 10:07:434 INFO  CommonActions:156 - Highlighted the Password field
+2024-07-02 10:07:568 INFO  CommonActions:156 - Clicked onPassword field
+2024-07-02 10:07:568 INFO  CommonActions:156 - Waiting for element to be visible
+2024-07-02 10:07:649 INFO  CommonActions:156 - Highlighted the Login button
+2024-07-02 10:07:716 INFO  CommonActions:156 - i Click on the element Login button
+2024-07-02 10:07:723 INFO  CommonActions:156 - Waiting for element to be Present
+2024-07-02 10:07:474 INFO  CommonActions:156 - Highlighted the Admin portal header
+2024-07-02 10:07:485 INFO  CommonActions:156 - scrolled till the Admin portal header
+2024-07-02 10:07:486 INFO  CommonActions:156 - Admin portal header is displayed....
+2024-07-02 10:07:481 INFO  CommonActions:156 - Highlighted the Admin portal header
+2024-07-02 10:07:502 INFO  CommonActions:156 - Validating the logout functionality is passed
